@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="365f3ecb-e191-45d9-b63e-7433b9fac4d7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_ViewImports.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/Views/_ViewImports.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1526929174579" expanded="false" signature="7:34" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_ViewStart.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/Views/_ViewStart.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1526929174575" expanded="true" signature="0:28" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <marker date="1526929174568" expanded="true" signature="16:3307" ph="&lt;html.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="23:840" ph="&lt;head.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="188:378" ph="&lt;environment.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="383:832" ph="&lt;environment.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="841:3299" ph="&lt;body.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="852:1910" ph="&lt;nav.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="913:1899" ph="&lt;div.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="949:1460" ph="&lt;div.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="993:1337" ph="&lt;button.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="1473:1884" ph="&lt;div.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="1528:1865" ph="&lt;ul.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="1915:2074" ph="&lt;div.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="1997:2063" ph="&lt;footer.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="2080:2334" ph="&lt;environment.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="2339:3243" ph="&lt;environment.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="2383:2731" ph="&lt;script.../&gt;" />
+                <marker date="1526929174568" expanded="true" signature="2740:3149" ph="&lt;script.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <marker date="1527006011132" expanded="true" signature="0:41" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/server/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/Views/Home/Index.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/server/bin/Debug/netcoreapp2.0/server.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/server/server.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="365f3ecb-e191-45d9-b63e-7433b9fac4d7" name="Default" comment="" />
+      <created>1526929177291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526929177291</updated>
+      <workItem from="1526929179673" duration="2470000" />
+      <workItem from="1527004646810" duration="1061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3531000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526929174579" expanded="false" signature="7:34" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526929174575" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <marker date="1526929174568" expanded="true" signature="16:3307" ph="&lt;html.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="23:840" ph="&lt;head.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="188:378" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="383:832" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="841:3299" ph="&lt;body.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="852:1910" ph="&lt;nav.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="913:1899" ph="&lt;div.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="949:1460" ph="&lt;div.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="993:1337" ph="&lt;button.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="1473:1884" ph="&lt;div.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="1528:1865" ph="&lt;ul.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="1915:2074" ph="&lt;div.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="1997:2063" ph="&lt;footer.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="2080:2334" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="2339:3243" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="2383:2731" ph="&lt;script.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="2740:3149" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526929174579" expanded="false" signature="7:34" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526929174575" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1526929174568" expanded="true" signature="16:3307" ph="&lt;html.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="23:840" ph="&lt;head.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="188:378" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="383:832" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="841:3299" ph="&lt;body.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="852:1910" ph="&lt;nav.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="913:1899" ph="&lt;div.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="949:1460" ph="&lt;div.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="993:1337" ph="&lt;button.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="1473:1884" ph="&lt;div.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="1528:1865" ph="&lt;ul.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="1915:2074" ph="&lt;div.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="1997:2063" ph="&lt;footer.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="2080:2334" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="2339:3243" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="2383:2731" ph="&lt;script.../&gt;" />
+            <marker date="1526929174568" expanded="true" signature="2740:3149" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <marker date="1527006011132" expanded="true" signature="0:41" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
