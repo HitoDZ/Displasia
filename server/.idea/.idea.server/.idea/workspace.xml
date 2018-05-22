@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="365f3ecb-e191-45d9-b63e-7433b9fac4d7" name="Default" comment="" />
+    <list default="true" id="365f3ecb-e191-45d9-b63e-7433b9fac4d7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/server/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/server/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/netcoreapp2.0/server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/netcoreapp2.0/server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bin/Debug/netcoreapp2.0/server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/server/bin/Debug/netcoreapp2.0/server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/obj/Debug/netcoreapp2.0/server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/server/obj/Debug/netcoreapp2.0/server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/obj/Debug/netcoreapp2.0/server.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/server/obj/Debug/netcoreapp2.0/server.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/obj/server.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/server/obj/server.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/obj/server.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/server/obj/server.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/wwwroot/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/wwwroot/js/site.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,14 +73,76 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Error.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/Views/Shared/Error.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1526929174564" expanded="true" signature="22:59" ph="@..." />
+                <marker date="1526929174564" expanded="true" signature="176:289" ph="@..." />
+                <marker date="1526929174564" expanded="true" signature="201:289" ph="{...}" />
+                <marker date="1526929174564" expanded="true" signature="208:287" ph="&lt;p.../&gt;" />
+                <marker date="1526929174564" expanded="true" signature="317:452" ph="&lt;p.../&gt;" />
+                <marker date="1526929174564" expanded="true" signature="453:843" ph="&lt;p.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_ValidationScriptsPartial.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/Views/Shared/_ValidationScriptsPartial.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1526929174571" expanded="true" signature="0:221" ph="&lt;environment.../&gt;" />
+                <marker date="1526929174571" expanded="true" signature="222:1153" ph="&lt;environment.../&gt;" />
+                <marker date="1526929174571" expanded="true" signature="262:656" ph="&lt;script.../&gt;" />
+                <marker date="1526929174571" expanded="true" signature="661:1138" ph="&lt;script.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/Views/Home/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="165">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding>
-                <marker date="1527006011132" expanded="true" signature="0:41" ph="@..." />
+                <marker date="1527008343878" expanded="true" signature="0:41" ph="@..." />
+                <marker date="1527008343878" expanded="true" signature="43:441" ph="&lt;form.../&gt;" />
+                <marker date="1527008343878" expanded="true" signature="54:303" ph="&lt;div.../&gt;" />
+                <marker date="1527008343878" expanded="true" signature="159:292" ph="&lt;input.../&gt;" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="926">
+              <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+              <folding>
+                <marker date="1527008343489" expanded="false" signature="6:208" ph="..." />
+                <marker date="1527008343489" expanded="true" signature="238:2925" ph="{...}" />
+                <marker date="1527008343489" expanded="true" signature="285:2923" ph="{...}" />
+                <marker date="1527008343489" expanded="true" signature="328:375" ph="{...}" />
+                <marker date="1527008343489" expanded="true" signature="413:533" ph="{...}" />
+                <marker date="1527008343489" expanded="true" signature="573:677" ph="{...}" />
+                <marker date="1527008343489" expanded="true" signature="715:846" ph="{...}" />
+                <marker date="1527008343489" expanded="true" signature="917:2917" ph="{...}" />
+                <marker date="1527008343489" expanded="true" signature="940:2868" ph="/* WebRequest request = WebRequest.Create(&quot;http://127.0.0.1:5002/test11&quot;); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/wwwroot/js/site.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -79,14 +153,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/server/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/server/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/server/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/server/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/server/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/server/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/server/wwwroot/js/site.js" />
+        <option value="$PROJECT_DIR$/server/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/server/Views/Home/Index.cshtml" />
       </list>
     </option>
@@ -124,6 +203,12 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -139,6 +224,27 @@
               <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="js" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="server (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="server" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="js" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="site.js" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -197,12 +303,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526929177291</updated>
       <workItem from="1526929179673" duration="2470000" />
-      <workItem from="1527004646810" duration="1061000" />
+      <workItem from="1527004646810" duration="3626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3531000" />
+    <option name="totallyTimeSpent" value="6096000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -222,12 +328,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="REST Client" order="7" />
+      <window_info anchor="bottom" id="REST Client" order="7" weight="0.32905984" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="right" id="Database" order="3" />
@@ -313,6 +419,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/wwwroot/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Views/Shared/_ValidationScriptsPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526929174571" expanded="true" signature="0:221" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174571" expanded="true" signature="222:1153" ph="&lt;environment.../&gt;" />
+            <marker date="1526929174571" expanded="true" signature="262:656" ph="&lt;script.../&gt;" />
+            <marker date="1526929174571" expanded="true" signature="661:1138" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Views/Shared/Error.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1526929174564" expanded="true" signature="22:59" ph="@..." />
+            <marker date="1526929174564" expanded="true" signature="176:289" ph="@..." />
+            <marker date="1526929174564" expanded="true" signature="201:289" ph="{...}" />
+            <marker date="1526929174564" expanded="true" signature="208:287" ph="&lt;p.../&gt;" />
+            <marker date="1526929174564" expanded="true" signature="317:452" ph="&lt;p.../&gt;" />
+            <marker date="1526929174564" expanded="true" signature="453:843" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="926">
+          <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+          <folding>
+            <marker date="1527008343489" expanded="false" signature="6:208" ph="..." />
+            <marker date="1527008343489" expanded="true" signature="238:2925" ph="{...}" />
+            <marker date="1527008343489" expanded="true" signature="285:2923" ph="{...}" />
+            <marker date="1527008343489" expanded="true" signature="328:375" ph="{...}" />
+            <marker date="1527008343489" expanded="true" signature="413:533" ph="{...}" />
+            <marker date="1527008343489" expanded="true" signature="573:677" ph="{...}" />
+            <marker date="1527008343489" expanded="true" signature="715:846" ph="{...}" />
+            <marker date="1527008343489" expanded="true" signature="917:2917" ph="{...}" />
+            <marker date="1527008343489" expanded="true" signature="940:2868" ph="/* WebRequest request = WebRequest.Create(&quot;http://127.0.0.1:5002/test11&quot;); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-60">
@@ -341,10 +498,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding>
-            <marker date="1527006011132" expanded="true" signature="0:41" ph="@..." />
+            <marker date="1527008343878" expanded="true" signature="0:41" ph="@..." />
+            <marker date="1527008343878" expanded="true" signature="43:441" ph="&lt;form.../&gt;" />
+            <marker date="1527008343878" expanded="true" signature="54:303" ph="&lt;div.../&gt;" />
+            <marker date="1527008343878" expanded="true" signature="159:292" ph="&lt;input.../&gt;" />
           </folding>
         </state>
       </provider>

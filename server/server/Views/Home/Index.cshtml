@@ -5,6 +5,8 @@
 <form>
     <div class="form-group">
         <label for="exampleFormControlFile1">Example file input</label>
-        <input type="file" class="form-control-file" id="exampleFormControlFile1">
+        <input  id="filechooser"  type="file" name="myImage" accept="image/x-png,image/gif,image/jpeg"
+            class="form-control-file">
     </div>
+    <button type="button" name="test" id="test" onclick="uploadFile()" class="btn btn-secondary btn-sm btn-block">Upload</button>
 </form>

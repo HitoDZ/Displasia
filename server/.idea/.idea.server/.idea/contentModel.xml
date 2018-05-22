@@ -23,6 +23,9 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
         <e p="server.csproj" t="IncludeRecursive" />
         <e p="Startup.cs" t="Include" />
         <e p="Views" t="Include">
