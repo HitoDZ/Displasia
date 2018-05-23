@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
+using System.Net;
+using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -38,19 +41,19 @@ namespace server.Controllers
         [HttpPost]
         public String Rest(IFormFile fileToUpload)
         {
-            /*WebRequest request = WebRequest.Create("http://127.0.0.1:5002/test11");
+            WebRequest request = WebRequest.Create("http://127.0.0.1:5002/value");
             request.Method = "POST";
             string postData = "";
-                if (fileToUpload.Length > 0)
+            if (fileToUpload.Length > 0)
+            {
+                using (var ms = new MemoryStream())
                 {
-                    using (var ms = new MemoryStream())
-                    {
-                       fileToUpload.CopyTo(ms);
-                        var fileBytes = ms.ToArray();
-                        postData  = Convert.ToBase64String(fileBytes);
-                        // act on the Base64 data
-                    }
+                    fileToUpload.CopyTo(ms);
+                    var fileBytes = ms.ToArray();
+                    postData  = Convert.ToBase64String(fileBytes);
+                    // act on the Base64 data
                 }
+            }
 
             byte[] byteArray = Encoding.UTF8.GetBytes(postData);
             // Set the ContentType property of the WebRequest.  
@@ -61,6 +64,7 @@ namespace server.Controllers
             Stream dataStream = request.GetRequestStream();
             // Write the data to the request stream.  
             dataStream.Write(byteArray, 0, byteArray.Length);
+            //var a = dataStream.Position;
             // Close the Stream object.  
             dataStream.Close();
 
@@ -83,7 +87,7 @@ namespace server.Controllers
             // Clean up the streams.  
             reader.Close();
             dataStream.Close();
-            response.Close();* */
+            response.Close();
     
             return "Oh Yeah2";   
         }
