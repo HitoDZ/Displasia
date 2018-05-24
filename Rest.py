@@ -1,12 +1,15 @@
 from flask import Flask, request
 from flask_restful import Resource, Api, reqparse
 from json import dumps
+<<<<<<< HEAD
+=======
 from base64 import b64decode
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 import tensorflow as tf
 
+>>>>>>> master
 
 app = Flask(__name__)
 api = Api(app)
@@ -15,6 +18,8 @@ api = Api(app)
 testdict = {"test1": "hello1", "test2": "hello2"}
 managedict = {'key1': 'val1'}
 
+<<<<<<< HEAD
+=======
 
 def Model(x):
     mu = 0
@@ -104,6 +109,7 @@ with tf.Session() as sess:
     saver.restore(sess, save_file)
 
 
+>>>>>>> master
 class Employees(Resource):
     def get(self):  
         return managedict  # Fetches first column that is Employee ID
@@ -132,6 +138,16 @@ class testdict1(Resource):
         value = "what"
         return value
 
+<<<<<<< HEAD
+class value(Resource):
+   # @app.route('/post/', methods=['POST'])
+    def post(self):
+        #json_data = request.get_json(force=True)
+        #print(json_data)
+        data = request.stream
+        print(data)
+        return "data"
+=======
 
 def get_image(image_id, image_type, bw=1):
     """
@@ -174,6 +190,7 @@ class value(Resource):
         print(resp)
         return dumps({"response": str(resp)})
 
+>>>>>>> master
 
 class dictmanage(Resource):
     def get(self):
@@ -182,6 +199,10 @@ class dictmanage(Resource):
 
 api.add_resource(test11, '/test11')
 api.add_resource(testdict1, '/testdict1/<string:test_id>')
+<<<<<<< HEAD
+#api.add_resource(testdict1, '/testdict1')
+=======
+>>>>>>> master
 api.add_resource(value, '/value')
 
 
