@@ -7,7 +7,12 @@ function uploadFile() {
     //debugger;
 
     $.ajax({
+<<<<<<< HEAD
         url: "http://localhost:5000/Home/Rest",
+=======
+        //url: "http://localhost:5000/Home/Rest",
+        url: "http://localhost:65374/Home/Rest",
+>>>>>>> master
         type: "POST",
         data: formData,
         processData: false,

@@ -20,3 +20,17 @@ D:\University\4Kurs2Semestr\Diplom\Displasia\server\server\obj\Debug\netcoreapp2
 D:\University\4Kurs2Semestr\Diplom\Displasia\server\server\obj\Debug\netcoreapp2.0\server.AssemblyInfo.cs
 D:\University\4Kurs2Semestr\Diplom\Displasia\server\server\obj\Debug\netcoreapp2.0\server.dll
 D:\University\4Kurs2Semestr\Diplom\Displasia\server\server\obj\Debug\netcoreapp2.0\server.pdb
+<<<<<<< HEAD
+=======
+D:\Дима\Уроки\Диплом\Displasia\server\server\bin\Debug\netcoreapp2.0\server.deps.json
+D:\Дима\Уроки\Диплом\Displasia\server\server\bin\Debug\netcoreapp2.0\server.runtimeconfig.json
+D:\Дима\Уроки\Диплом\Displasia\server\server\bin\Debug\netcoreapp2.0\server.runtimeconfig.dev.json
+D:\Дима\Уроки\Диплом\Displasia\server\server\bin\Debug\netcoreapp2.0\server.dll
+D:\Дима\Уроки\Диплом\Displasia\server\server\bin\Debug\netcoreapp2.0\server.pdb
+D:\Дима\Уроки\Диплом\Displasia\server\server\obj\Debug\netcoreapp2.0\server.csprojResolveAssemblyReference.cache
+D:\Дима\Уроки\Диплом\Displasia\server\server\obj\Debug\netcoreapp2.0\server.csproj.CoreCompileInputs.cache
+D:\Дима\Уроки\Диплом\Displasia\server\server\obj\Debug\netcoreapp2.0\server.AssemblyInfoInputs.cache
+D:\Дима\Уроки\Диплом\Displasia\server\server\obj\Debug\netcoreapp2.0\server.AssemblyInfo.cs
+D:\Дима\Уроки\Диплом\Displasia\server\server\obj\Debug\netcoreapp2.0\server.dll
+D:\Дима\Уроки\Диплом\Displasia\server\server\obj\Debug\netcoreapp2.0\server.pdb
+>>>>>>> master

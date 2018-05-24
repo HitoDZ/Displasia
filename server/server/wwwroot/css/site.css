@@ -2,6 +2,7 @@
     padding-top: 50px;
     padding-bottom: 20px;
 }
+<<<<<<< HEAD
 #mainDiv {
     /*margin-top: 14%;*/
     margin-bottom: 18%;
@@ -20,6 +21,8 @@
     -moz-transform-origin: 0 0;
     -webkit-transform-origin: 0 0;
 }
+=======
+>>>>>>> master
 
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
@@ -27,9 +30,13 @@
     padding-left: 15px;
     padding-right: 15px;
 }
+<<<<<<< HEAD
 #btn {  
     width: 40%;
 }
+=======
+
+>>>>>>> master
 /* Carousel */
 .carousel-caption p {
     font-size: 20px;
